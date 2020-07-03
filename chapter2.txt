@@ -1,1 +1,4 @@
 This is the second chapter
+
+this is the difference between what committed and whats not
+
